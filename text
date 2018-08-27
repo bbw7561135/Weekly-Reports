@@ -4,4 +4,6 @@ PLUTO is a finite volume / finite-difference, shock-capturing code designed to
 integrate a system of conservation laws.
 
 I'm using Atom to create this text file on my personal computer. I can use the
-graphical interface to easily stage and commit changes to a master repository. 
+graphical interface to easily stage and commit changes to a master repository.
+
+Testing integration between Atom and GitHub.  
