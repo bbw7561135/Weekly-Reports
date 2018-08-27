@@ -1,1 +1,4 @@
-This is just some text. 
+This is just some text.
+
+PLUTO is a finite volume / finite-difference, shock-capturing code designed to
+integrate a system of conservation laws. 
