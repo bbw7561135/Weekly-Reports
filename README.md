@@ -9,7 +9,7 @@
 * Imported test data into VisIt, made visualizations of Orszag-Tang test
 
 ## Week 2:
-*This week's report includes numerous animations in the form of .gif files. Many of these animations can be found in respective test folders*. 
+*This week's report includes numerous animations in the form of .gif files. Many of these animations can be found in respective test folders under the 'Magnetar-PLUTO-files' repository*. 
 
 * Creation of init.c file for disk of uniform density
 * Creation of 'Magnetar-PLUTO-files' repository
